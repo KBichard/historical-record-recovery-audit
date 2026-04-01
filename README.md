@@ -17,8 +17,8 @@ The workflow is designed to help distinguish between:
 
 ## Files
 
-- `missing-records-audit.sql` — identifies suspected gaps in historical book/page or instrument-based records
-- `archive-validation-workflow.ps1` — scans archived files, validates likely matches, and isolates documents for review
+- `missing_BkPg.sql` — identifies suspected gaps in historical book/page or instrument-based records
+- `Scott_Finder.ps1` — scans archived files, validates likely matches, and isolates documents for review
 
 ## Key Capabilities
 
